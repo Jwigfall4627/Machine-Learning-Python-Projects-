@@ -119,3 +119,8 @@ If you want to improve these notebooks:
 2. Add or update a notebook or dataset.
 3. Add a `requirements.txt` if you add new packages.
 4. Open a pull request with a short description of changes.
+
+## License & Contact
+This repository is intended for teaching and learning. If you want to use or redistribute parts of it, please include attribution.
+
+##Thank You
