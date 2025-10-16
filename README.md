@@ -1,6 +1,4 @@
-# Machine-Learning-Python-Projects-
-
-## DS4510 — Machine Learning Notebooks
+# Machine-Learning-Python-Notebooks-
 
 A curated companion README for the DS4510 workspace. This repository contains lecture notebooks that introduce ML concepts and a Capstone folder with practical notebooks applying those concepts to real data (NBA analytics). Use this README as a quick guide to what each notebook covers and how the pieces fit together.
 
